@@ -3,7 +3,9 @@
     <!-- 上栏标题 -->
     <div class="header">
       <div class="header-left">
+        <router-link to="/">
         <div class="iconfont back-icon">&#xe65b;</div>
+        </router-link>
       </div>
       <div class="title">
         <span>去哪儿攻略</span>
@@ -31,4 +33,8 @@ export default {
     background: $bgColor;
     color: #fff;
   }
+  .back-icon{
+      color: #fff;
+      font-size: .4rem;
+    }
 </style>

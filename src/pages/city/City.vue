@@ -39,7 +39,8 @@ export default {
   },
   methods: {
     getCityInfo () {
-      axios.get('/api/city.json')
+      var instance = axios.create({ headers: {'content-type': 'application/x-www-form-urlencoded'} })
+      instance.get('static/mock/city.json')
         .then(this.handleGetCityInfoSucc)
     },
     handleGetCityInfoSucc (res) {

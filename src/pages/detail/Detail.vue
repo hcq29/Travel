@@ -34,7 +34,8 @@ export default {
   },
   methods: {
     getDetailInfo () {
-      axios.get('/api/detail.json', {
+      var instance = axios.create({ headers: {'content-type': 'application/x-www-form-urlencoded'} })
+      instance.get('static/mock/detail.json', {
         params: {
           id: this.$route.params.id
         }
