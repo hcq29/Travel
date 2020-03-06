@@ -18,4 +18,14 @@
 
 以下是预览图片
 
-<img src="images/1049e6b0923c46847c5713f58456d46.jpg" alt="1049e6b0923c46847c5713f58456d46" style="zoom:20%;" />   <img src="images/c1df19c1cc7432837ff1335581f2fd6%20(1).jpg" alt="c1df19c1cc7432837ff1335581f2fd6 (1)" style="zoom:20%;" />  <img src="images/c82df8fe874a88f66da863473d13657.jpg" alt="c82df8fe874a88f66da863473d13657" style="zoom:20%;" />  <img src="images/d82e4a3da5057f71ff1e46bbc492c20.jpg" alt="d82e4a3da5057f71ff1e46bbc492c20" style="zoom:20%;" />  <img src="images/784ad68d2bd4f6fc733e5dd66bd524d.jpg" alt="784ad68d2bd4f6fc733e5dd66bd524d" style="zoom:20%;" />  
+- 首页
+
+![1049e6b0923c46847c5713f58456d46](images/1049e6b0923c46847c5713f58456d46.jpg)-   ![c1df19c1cc7432837ff1335581f2fd6 (1)](images/c1df19c1cc7432837ff1335581f2fd6%20(1).jpg) 
+
+- 城市选择页面
+
+![c82df8fe874a88f66da863473d13657](images/c82df8fe874a88f66da863473d13657.jpg) 
+
+- 详情页面
+
+![d82e4a3da5057f71ff1e46bbc492c20](images/d82e4a3da5057f71ff1e46bbc492c20.jpg)   ![784ad68d2bd4f6fc733e5dd66bd524d](images/784ad68d2bd4f6fc733e5dd66bd524d.jpg)
