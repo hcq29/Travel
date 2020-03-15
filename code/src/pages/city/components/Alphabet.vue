@@ -74,10 +74,11 @@ export default {
     flex-direction: column;
     justify-content: center;
     position: absolute;
-    right: 0;
-    top: 1.58rem;
+    right: 0.4rem;
+    top: 2.6rem;
     bottom: 0;
-    width: .4rem;
+    width: 0.4rem;
+    height: 10.4rem;
   }
     .item{
       line-height: .4rem;

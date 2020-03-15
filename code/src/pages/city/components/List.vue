@@ -59,7 +59,7 @@ export default {
   methods: {
     HandelCityClick (city) {
       this.changeCity(city)
-      this.$router.push('/')
+      window.history.back(-1)
     },
     ...mapMutations(['changeCity'])
   },
