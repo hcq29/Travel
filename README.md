@@ -2,11 +2,11 @@
 
 > A Vue.js project
 
-**去哪儿核心页面**			     **前端开发**
+**仿去哪儿核心页面**			     **前端开发**
 
-⚫ 描述：使用Vue.js开发的去哪儿核心页面（首页、城市选择页、详情页）
+⚫ 描述：使用Vue.js开发的仿去哪儿核心页面（首页、城市选择页、详情页）
 
-⚫ 预览链接：[https://hcq29.github.io/Travel/dist/](https://hcq29.github.io/Travel/dist/)  （查看时请缩小网页）
+⚫ 预览链接：[https://hcq29.github.io/Travel/dist/](https://hcq29.github.io/Travel/dist/)  （查看时请缩小网页，或者使用手机预览）
 
 1. 负责公共头部、轮播图的开发，同时使用 `axios` 获取接口数据以及父子组件间数据的传递；
 

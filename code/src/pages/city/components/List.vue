@@ -59,7 +59,7 @@ export default {
   methods: {
     HandelCityClick (city) {
       this.changeCity(city)
-      window.history.back(-1)
+      this.$router.push('/')
     },
     ...mapMutations(['changeCity'])
   },
@@ -72,7 +72,7 @@ export default {
     }
   },
   mounted () {
-    this.scroll = new BScroll(this.$refs.wrapper)
+    this.scroll = new BScroll(this.$refs.wrapper, {mouseWheel: true, click: true, tap: true})
   }
 }
 </script>

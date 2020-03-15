@@ -75,7 +75,7 @@ export default {
     justify-content: center;
     position: absolute;
     right: 0.1rem;
-    top: 2.6rem;
+    top: 1.58rem;
     bottom: 0;
     width: 0.4rem;
     height: 10.4rem;
