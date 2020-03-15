@@ -74,7 +74,7 @@ export default {
     flex-direction: column;
     justify-content: center;
     position: absolute;
-    right: 0.4rem;
+    right: 0.1rem;
     top: 2.6rem;
     bottom: 0;
     width: 0.4rem;
